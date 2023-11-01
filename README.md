@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/himani8008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himani8008" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/himani-sharma-91584327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/himani-sharma-91584327" height="30" width="40" /></a>
+<a href="https://instagram.com/himani.8008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himani.8008" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/himani2110" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himani2110" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@himani_sharma801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@himani_sharma801" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himani2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himani2110" height="30" width="40" /></a>
